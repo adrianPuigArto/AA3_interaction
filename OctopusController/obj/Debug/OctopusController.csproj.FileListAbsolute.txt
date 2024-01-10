@@ -1,0 +1,9 @@
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\bin\Debug\OctopusController.dll
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\bin\Debug\OctopusController.pdb
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\bin\Debug\UnityEditor.dll
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\bin\Debug\UnityEngine.dll
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\obj\Debug\OctopusController.csproj.AssemblyReference.cache
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\obj\Debug\OctopusController.csproj.CoreCompileInputs.cache
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\obj\Debug\OctopusController.csproj.CopyComplete
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\obj\Debug\OctopusController.dll
+D:\modelatge recus\aa2\repo\ModelatgeAA2IkController\OctopusController\obj\Debug\OctopusController.pdb
